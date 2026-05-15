@@ -1,6 +1,0 @@
-,risk_score,risk_score,risk_score,risk_score
-,mean,std,min,max
-driver_id,,,,
-B,25.62,25.38,0.01,100.0
-F,22.71,23.69,0.03,100.0
-I,23.99,25.48,0.03,100.0

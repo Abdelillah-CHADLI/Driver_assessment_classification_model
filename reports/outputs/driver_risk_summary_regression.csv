@@ -1,0 +1,11 @@
+driver_id,n_windows,risk_target_mean,risk_predicted_mean,bucket
+C,202,0.198,0.1868,safe
+A,203,0.2227,0.1826,safe
+D,264,0.1676,0.1783,safe
+B,256,0.1647,0.171,moderate
+I,217,0.1707,0.1632,moderate
+F,294,0.1537,0.1592,moderate
+H,288,0.1601,0.1589,dangerous
+J,295,0.1645,0.1571,dangerous
+G,204,0.1425,0.1546,dangerous
+E,278,0.1614,0.1526,dangerous
